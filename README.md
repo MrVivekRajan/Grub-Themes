@@ -18,7 +18,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Aesthetic"><img src="https://img.shields.io/badge/Aesthetic-Theme-purple.svg?style=for-the-badge&labelColor=da025d&color=8651bb"></a>
-<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Anime"><img src="https://img.shields.io/badge/Anime-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Anime"><img src="https://img.shields.io/badge/Anime-yellow.svg?style=for-the-badge&color=689d6a"></a>
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/CartoonGirl"><img src="https://img.shields.io/badge/CartoonGirl-yellow.svg?style=for-the-badge&labelColor=458588"></a>
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Doraemon"><img src="https://img.shields.io/badge/Doraemon.svg?style=for-the-badge&labelColor=458588"></a>
