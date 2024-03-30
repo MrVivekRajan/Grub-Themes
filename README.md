@@ -13,7 +13,7 @@
 ## :star2: Description
 A warm welcome to all the people reading out this 🤗. Here at this repo you will find some Aesthetic, cool, stylish and minimal themes for Grub Boot Menu.
 
-## :star3: Currently Supported Themes
+## :star1: Currently Supported Themes
 
 <br><div align="center"><table><tr><td><img width="60" src="https://www.shareicon.net/data/2016/02/07/281237_theme_512x512.png"></td><td>
 
