@@ -9,7 +9,7 @@
             <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=0A1938&color=948F8E"></a> 
 </p>
 
-<p>
+<p align="center">
 <a = href="https://www.gnu.org/software/grub/">
             <img src="https://img.shields.io/badge/Grub-Bootloader-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a>  
 </p>
