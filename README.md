@@ -33,6 +33,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
 
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/cfcd94fb-6de2-4971-8ffd-e2abdb75a817" align="center" width="750"> </p>
+
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/23566a60-906a-4695-9bf8-0cee056f97b5" align="center" width="750"> </p>
+
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/e4974df4-eaa0-4269-95e1-12ac41dab685" align="center" width="750"> </p>
+
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/9f9d0732-ad3e-4bd6-a40c-da0dacf6ee55" align="center" width="750"> </p>
+
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/ddf0d599-e3f7-4110-984d-99e01dfdd9c2" align="center" width="750"> </p>
+
+<p align="center"> <img src=""https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/078eff71-2120-4c27-84d3-8cd4d32d6fbb" align="center" width="750"> </p>
+
 # Download
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
 
