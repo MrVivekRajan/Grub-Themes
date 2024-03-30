@@ -6,7 +6,9 @@
 
  <p align="center"> 
    <a = href="https://www.pling.com/p/2142488/">
-            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a>    
+            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a>
+   <a = href="https://www.gnu.org/software/grub/">
+            <img src="https://img.shields.io/badge/Grub-Bootloader-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a>   
 </p>
  
 
