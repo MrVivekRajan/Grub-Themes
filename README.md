@@ -19,7 +19,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Aesthetic"><img src="https://img.shields.io/badge/Aesthetic-purple.svg?style=for-the-badge&color=8f8452"></a>
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Anime"><img src="https://img.shields.io/badge/Anime-yellow.svg?style=for-the-badge&color=d33c2d"></a>
-<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/SekiroShadow"><img src="https://img.shields.io/badge/Sekiro-purple.svg?style=for-the-badge&color=4e0bb5"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/SekiroShadow"><img src="https://img.shields.io/badge/Sekiro-purple.svg?style=for-the-badge&color=3B4068"></a>
 
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/CartoonGirl"><img src="https://img.shields.io/badge/CartoonGirl-yellow.svg?style=for-the-badge&color=a953bb"></a>
