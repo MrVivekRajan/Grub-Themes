@@ -1,0 +1,32 @@
+desktop-image: "SekiroShadow.png"
+terminal-font: "Hack Bold 18"
+title-text:""
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+    left = 60%
+    top = 30%
+    width = 55%
+    height = 60%
+    item_spacing = 25
+    item_color = "#000000"
+    item_font = "Norwester Regular 22"
+    selected_item_font = "Dersu Uzala brush Regular 54"
+    selected_item_color = "#ffe0e8"
+    selected_item_pixmap_style = "select_*.png"
+}
+
++ label {
+    id = "__timeout__"
+    left = 40%
+    top = 90%
+    width = 300
+    height = 20
+    font = "Norwester Regular 22"
+    color = "#ffffff"
+    align = "center"
+    text = "Few Seconds Away From Automatic Boot : %ds"
+}
+
+

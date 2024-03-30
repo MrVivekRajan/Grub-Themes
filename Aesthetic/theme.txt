@@ -1,0 +1,36 @@
+desktop-image: "Aesthetic.png"
+terminal-font: "Hack Bold 18"
+title-text:""
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+    left = 25%
+    top = 33%
+    width = 50%
+    height = 50%
+    item_spacing = 25
+    item_font =  "Norwester Bold 22"
+    item_color = "#8f8452"
+    item_font = "Norwester Regular 22"
+    selected_item_font = "Norwester Bold 22"
+    selected_item_color = "#c6d19a"
+    selected_item_pixmap_style = "select_*.png"
+}
+
++ label {
+    id = "__timeout__"
+    left = 28%+5
+    top = 28%+10
+    width = 300
+    height = 20
+    font = "Norwester Regular 22"
+    color = "#8f8452"
+    align = "center"
+    text = "Few Seconds Away From Automatic Boot : %ds"
+}
+
+
+
+
+

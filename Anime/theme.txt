@@ -1,0 +1,31 @@
+desktop-image: "Anime.png"
+terminal-font: "Hack Bold 18"
+title-text:""
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+    left = 32%
+    top = 31%
+    width = 50%
+    height = 50%
+    item_spacing = 20
+    item_font =  "Norwester Bold 22"
+    item_color = "#290808"
+    item_font = "Norwester Regular 22"
+    selected_item_font = "Norwester Bold 22"
+    selected_item_color = "#ffffff"
+    selected_item_pixmap_style = "select_*.png"
+}
+
++ label {
+    id = "__timeout__"
+    left = 23%
+    top = 96%
+    width = 300
+    height = 20
+    font = "Norwester Regular 22"
+    color = "#290808"
+    align = "center"
+    text = "Few Seconds Away From Automatic Boot : %ds"
+}
