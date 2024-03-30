@@ -1,7 +1,7 @@
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Grub-Themes/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=8f8452&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Grub-Themes/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
-    <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=3B4068&style=for-the-badge"></a>
 </p>
 
  <p align="center"> 
