@@ -6,7 +6,7 @@
 
  <p align="center"> 
    <a = href="https://www.pling.com/p/2142488/">
-            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=948F8E"></a> 
+            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=4e0bb5"></a> 
 </p>
 
 ## :star2: Description
