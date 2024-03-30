@@ -36,14 +36,16 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 (2) Copy the downloaded theme folder to /boot/grub/themes/ directory.
 
-(3) Then edit  /etc/default/grub 
+(3) Then edit  /etc/default/grub using any text editor or filemanager.
 
-(4) And add : GRUB_THEME=/boot/grub/themes/(theme-name)/theme.txt
-                                           don't forget to change (theme-name) with your real theme name.
+(4) And add : 
+GRUB_THEME=/boot/grub/themes/(theme-name)/theme.txt
+            don't forget to replace (theme-name) with your real theme name.
  
-(5) Update grub by:  sudo update-grub
-                          or
-            sudo grub-mkconfig -o /boot/grub/grub.cfg 
+(5) Update grub by:  
+sudo update-grub
+      or
+sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
@@ -69,4 +71,4 @@ https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/770ab8ba-cdbd-4092-b
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
 
 
-<h4> <span>· </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/developer-vivek/Gruvminimal-Dots/issues"> Request Feature </a> </h4>
+<h4> <span>· </span> <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"> Report Bug </a> <span> · </span> <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"> Request Feature </a> </h4>
