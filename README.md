@@ -49,7 +49,7 @@ sudo grub-mkconfig -o /boot/grub/grub.cfg
 # Preview
 *NEON - PURPLE
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
-SEKIRO
+*SEKIRO*
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/cfcd94fb-6de2-4971-8ffd-e2abdb75a817" align="center" width="750"> </p>
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/23566a60-906a-4695-9bf8-0cee056f97b5" align="center" width="750"> </p>
