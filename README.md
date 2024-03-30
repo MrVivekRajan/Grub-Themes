@@ -8,18 +8,10 @@
             <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a> 
    <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
 </p>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-- [About This Project](#star2-about-the-project)
-- [Discord](https://github.com/developer-vivek/Discord-Themes/) - [Spotify](https://github.com/developer-vivek/Spotify-Themes)  Themes used in Dots can be downloaded from here.
-- [Preview](#Preview)
-- [WorkFlow](#WorkFlow-Stylish)
-- [Download](#Download)
  
 
-## :star2: About This Project
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find some cool, stylish and minimal themes for Hyprland window manager.
+## :star2: Description
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find some Aesthetic, cool, stylish and minimal themes for Grub Menu.
 
 ## Currently Supported Themes
 
