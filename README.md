@@ -31,7 +31,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </td></tr></table></div><br><table><td><br>
 
 # Preview
-<p align="center"> <img src="https://github.com/MrVivekRajan/Hypr-Dots/assets/85994908/8d26306e-cde1-4754-86cc-d31ceef96690" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
 
 # Download
 1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
