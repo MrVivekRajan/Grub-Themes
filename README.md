@@ -1,17 +1,17 @@
 <p align="center">
     <a href="https://github.com/MrVivekRajan/Grub-Themes/stargazers"><img src="https://img.shields.io/github/stars/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=458588&style=for-the-badge"></a>
      <a href="https://github.com/MrVivekRajan/Grub-Themes/contributors"><img src="https://img.shields.io/github/contributors/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=8651BB&style=for-the-badge"></a>
+    <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
 </p>
 
  <p align="center"> 
    <a = href="https://www.pling.com/p/2142488/">
-            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a> 
-   <a href="https://github.com/MrVivekRajan/Grub-Themes/issues"><img src="https://img.shields.io/github/issues/MrVivekRajan/Grub-Themes?colorA=32302f&colorB=eebd35&style=for-the-badge"></a>
+            <img src="https://img.shields.io/badge/Pling-Page-red.svg?style=for-the-badge&labelColor=32302f&color=fb4934"></a>    
 </p>
  
 
 ## :star2: Description
-A warm welcome to all the people reading out this 🤗. Here at this repo you will find some Aesthetic, cool, stylish and minimal themes for Grub Menu.
+A warm welcome to all the people reading out this 🤗. Here at this repo you will find some Aesthetic, cool, stylish and minimal themes for Grub Boot Menu.
 
 ## Currently Supported Themes
 
