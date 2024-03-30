@@ -30,6 +30,21 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 </td></tr></table></div><br><table><td><br>
 
+# INSTALLATION :-
+
+(1) Download and extract your favourite theme from below.
+
+(2) Copy the downloaded theme folder to /boot/grub/themes/ directory.
+
+(3) Then edit  /etc/default/grub 
+
+(4) And add : GRUB_THEME=/boot/grub/themes/(theme-name)/theme.txt
+                                           don't forget to change (theme-name) with your real theme name.
+ 
+(5) Update grub by:  sudo update-grub
+                          or
+            sudo grub-mkconfig -o /boot/grub/grub.cfg 
+
 # Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
 
@@ -45,12 +60,8 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/078eff71-2120-4c27-84d3-8cd4d32d6fbb"> </p>
 
-# Download
-1. If you want to download all the themes at once then simply clone/download this [Repository](https://github.com/MrVivekRajan/Hypr-Dots)
 
-2. If you want to download individual or your desired theme then download it from [Release-Section](https://github.com/MrVivekRajan/Hypr-Dots/releases) 
-
-# Grub - Preview
+# Video - Preview
 https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/770ab8ba-cdbd-4092-b1ee-a4bf7f90476c
 
 
