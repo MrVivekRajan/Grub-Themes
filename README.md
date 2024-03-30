@@ -21,10 +21,10 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Anime"><img src="https://img.shields.io/badge/Anime-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/CartoonGirl"><img src="https://img.shields.io/badge/CartoonGirl-yellow.svg?style=for-the-badge&labelColor=458588"></a>
-<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Doraemon"><img src="https://img.shields.io/badge/Doraemon-yellow.svg?style=for-the-badge&labelColor=458588"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Doraemon"><img src="https://img.shields.io/badge/Doraemon.svg?style=for-the-badge&labelColor=458588"></a>
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/GradientColor"><img src="https://img.shields.io/badge/Gradient-Color-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
-<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/NeonPurple"><img src="https://img.shields.io/badge/Neon-Purple-yellow.svg?style=for-the-badge&labelColor=458588&color=689d6a"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/NeonPurple"><img src="https://img.shields.io/badge/Neon-Purple-yellow.svg?style=for-the-badge&labelColor=458588"></a>
 
 </td></tr></table></div><br><table><td><br>
 
