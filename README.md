@@ -52,7 +52,7 @@ GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
            or
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
-# For others themes
+# For other themes
 (1) Download your favourite theme either by cloning this repository or from release section.
 
 (2) Copy the downloaded theme folder to /boot/grub/themes/ directory.
