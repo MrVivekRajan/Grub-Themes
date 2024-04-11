@@ -69,7 +69,8 @@ GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # Preview
-SEKIRO - SHADOW
+WINDOWS - MENU
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/a7141f95-93ec-4b99-b677-1c0ad9235d8f" align="center" width="750"> </p>
 NEON - PURPLE
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
 SEKIRO - SHADOW
