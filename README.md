@@ -30,7 +30,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 </td></tr></table></div><br><table><td><br>
 
 # INSTALLATION :-
-# Rememember this installation guide is specifically for Windows-Menu Theme. For other themes just scroll down.
+# For Windows-Menu Theme.
 (1) Download Windows-Menu-Main theme file either by cloning this repository or from release section.
 
 (2) Once downloaded, you will Windows-Menu folder inside it simply copy it to /boot/grub/themes/ directory.
@@ -39,14 +39,18 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
 
 (4) Then copy paste menu.cfg file present in Windows-Menu-Main folder to /boot/grub/
+
 (5) Also copy paste Menu script file present in Windows-Menu-Main folder to /etc/grub.d/
-(6) Then simply run chmod +x /etc/grub.d/Menu command in terminal.
+
+(6) Then simply run chmod +x /etc/grub.d/Menu command in terminal
+
 (7) Now simply set env variable using the command :
     sudo grub-editenv - set config_file=menu.cfg 
-(8)Everything done just simply update grub by :
-   sudo update-grub
-         or
-   sudo grub-mkconfig -o /boot/grub/grub.cfg 
+    
+(8) Everything done just simply update grub by :
+    sudo update-grub
+           or
+    sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # For others themes
 (1) Download your favourite theme either by cloning this repository or from release section.
@@ -56,13 +60,13 @@ GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
 (3) Then edit  /etc/default/grub using any text editor or filemanager.
 
 (4) And add : 
-GRUB_THEME=/boot/grub/themes/(theme-name)/theme.txt
+    GRUB_THEME=/boot/grub/themes/(theme-name)/theme.txt
             don't forget to replace (theme-name) with your real theme name.
  
 (5) Update grub by:  
-sudo update-grub
-      or
-sudo grub-mkconfig -o /boot/grub/grub.cfg 
+    sudo update-grub
+           or
+    sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # Preview
 SEKIRO - SHADOW
