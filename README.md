@@ -47,8 +47,8 @@ sudo update-grub
 sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # Preview
-Windows-Menu
 https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/e4f2a9de-4f99-4113-8e32-eba3d421015d
+
 SEKIRO - SHADOW
 NEON - PURPLE
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
