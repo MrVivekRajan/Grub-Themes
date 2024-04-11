@@ -23,6 +23,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/CartoonGirl"><img src="https://img.shields.io/badge/CartoonGirl-yellow.svg?style=for-the-badge&color=a953bb"></a>
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Doraemon"><img src="https://img.shields.io/badge/Doraemon-orange.svg?style=for-the-badge&color=4575ba"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Windows-Menu-Main"><img src="https://img.shields.io/badge/WindowsMenu-blue.svg?style=for-the-badge&color=2368b5"></a>
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/GradientColor"><img src="https://img.shields.io/badge/GradientColor-yellow.svg?style=for-the-badge&color=f25781"></a>
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/NeonPurple"><img src="https://img.shields.io/badge/NeonPurple-yellow.svg?style=for-the-badge&color=4e0bb5"></a>
