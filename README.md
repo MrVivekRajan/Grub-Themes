@@ -88,8 +88,7 @@ AESTHETIC
 
 
 # Video - Preview
-https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/770ab8ba-cdbd-4092-b1ee-a4bf7f90476c
-
+https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/51d36697-b1c3-4398-9562-4fe7dbff7ab2
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
