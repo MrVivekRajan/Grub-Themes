@@ -34,7 +34,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 # For Windows-Menu Theme.
 (1) Download Windows-Menu-Main theme file either by cloning this repository or from release section.
 
-(2) Once downloaded, you will Windows-Menu folder inside it simply copy it to /boot/grub/themes/ directory.
+(2) Once downloaded, you will find Windows-Menu folder inside it simply copy and paste it to /boot/grub/themes/ directory.
 
 (3) Then edit /etc/default/grub using any text editor or filemanager and add :
 GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
