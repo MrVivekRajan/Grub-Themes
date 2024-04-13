@@ -71,7 +71,7 @@ GRUB_THEME=/boot/grub/themes/Windows-Menu/theme.txt
 
 # Preview
 WINDOWS - MENU
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/a7141f95-93ec-4b99-b677-1c0ad9235d8f" align="center" width="750"> </p>
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/15e67497-8c77-4a6d-8294-15fb534465fb" align="center" width="750"> </p>
 NEON - PURPLE
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7e042c85-2aad-4952-96ae-173b495d8479" align="center" width="750"> </p>
 SEKIRO - SHADOW
