@@ -1,11 +1,11 @@
-# Windows Taskbar Menu Inspired Theme For Grub
+# Windows Theme For Grub
 # Made By :- Vivek_Rajan
 # Repository :- https://github.com/MrVivekRajan/Grub-Themes
 
 
 # BACKGROUND-IMAGE
 title-text: ""
-desktop-image: "Taskbar.png"
+desktop-image: "Grub.png"
 
 
 # TERMINAL
@@ -16,9 +16,9 @@ terminal-font: "Hack Bold 18"
 
 # GRUB-MENU-ENTRIES 
 + boot_menu {
-	left = 31%
-	top = 325
-	width = 730
+	left = 11%
+	top = 380
+	width = 650
 	height = 100%
 	item_font = "Roboto-Regular-25"
         selected_item_font = "Roboto-Regular-27"
@@ -40,10 +40,8 @@ terminal-font: "Hack Bold 18"
 # TIMEOUT
 + label {
 	id = "__timeout__"
-	left = 0
-	top = 143+5
-	height = 30
-	width = 100%	
+	left = 11%+5
+        top = 25%
 	text = "Booting into os in %d Seconds"
 	align = "center"
 	font = "Roboto-Regular-22"
