@@ -69,15 +69,14 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
            or
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
-# Preview
-WINDOWS
+# WINDOWS - Preview
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/15e67497-8c77-4a6d-8294-15fb534465fb" align="center" width="750"> </p>
 
 # Others - Preview
 ![gif1](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046)
 
 
-# Video - Workflow - Preview
+# Workflow - Video
 https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/96cbe251-077f-449f-b1b7-a3c1e6c49662
 
 # Thanks for Visiting !! ❤️❤️
