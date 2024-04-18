@@ -72,23 +72,12 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
 # Preview
 WINDOWS
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/15e67497-8c77-4a6d-8294-15fb534465fb" align="center" width="750"> </p>
-NEON - PURPLE
-<p align="center"> <img src="(https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046" align="center" width="750"> </p>
-SEKIRO - SHADOW
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/cfcd94fb-6de2-4971-8ffd-e2abdb75a817" align="center" width="750"> </p> 
 
+# Others - Preview
 ![gif1](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046)
 
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/e4974df4-eaa0-4269-95e1-12ac41dab685" align="center" width="750"> </p>
-ANIME
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/9f9d0732-ad3e-4bd6-a40c-da0dacf6ee55" align="center" width="750"> </p>
-GRADIENT - COLOR
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/ddf0d599-e3f7-4110-984d-99e01dfdd9c2" align="center" width="750"> </p>
-AESTHETIC
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/078eff71-2120-4c27-84d3-8cd4d32d6fbb"> </p>
 
-
-# Video - Preview
+# Video - Workflow - Preview
 https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/96cbe251-077f-449f-b1b7-a3c1e6c49662
 
 # Thanks for Visiting !! ❤️❤️
