@@ -75,9 +75,10 @@ WINDOWS
 NEON - PURPLE
 <p align="center"> <img src="(https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046" align="center" width="750"> </p>
 SEKIRO - SHADOW
-<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/cfcd94fb-6de2-4971-8ffd-e2abdb75a817" align="center" width="750"> </p>
-DORAEMON
+<p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/cfcd94fb-6de2-4971-8ffd-e2abdb75a817" align="center" width="750"> </p> 
+
 ![gif1](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046)
+
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/e4974df4-eaa0-4269-95e1-12ac41dab685" align="center" width="750"> </p>
 ANIME
 <p align="center"> <img src="https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/9f9d0732-ad3e-4bd6-a40c-da0dacf6ee55" align="center" width="750"> </p>
