@@ -77,7 +77,8 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
 
 
 # Workflow - Video
-https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/54c9eb01-63f1-4a36-bcc2-217258c6b701
+https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/f91deb9a-ef84-46d9-88f1-64f97a4ef1a4
+
 
 # Thanks for Visiting !! ❤️❤️
 I Hope You Like my project, if yes then don't forget to give it a star as it means a lot.
