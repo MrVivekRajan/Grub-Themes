@@ -70,14 +70,7 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # WINDOWS - Preview
-![gif2](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/80bea1c1-7f33-43ca-b160-f53aa8d3a377)
-
-# Others - Preview
-![gif1](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/19f072ee-bbaf-4864-a9c5-fa95d296c046)
-
-
-# Workflow - Video
-https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/f91deb9a-ef84-46d9-88f1-64f97a4ef1a4
+https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/92712653-e448-4ad5-a4c3-56401d786e7b
 
 
 # Thanks for Visiting !! ❤️❤️
