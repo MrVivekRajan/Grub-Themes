@@ -1,0 +1,49 @@
+# Windows Theme For Grub
+# Made By :- Vivek_Rajan
+# Repository :- https://github.com/MrVivekRajan/Grub-Themes
+
+
+# BACKGROUND-IMAGE
+title-text: ""
+desktop-image: "Fedora.png"
+
+
+# TERMINAL
+terminal-width: "100%"
+terminal-height: "100%"
+terminal-font: "Hack Bold 18"
+
+
+# GRUB-MENU-ENTRIES 
++ boot_menu {
+	left = 37%
+	top = 550
+	width = 500
+	height = 100%
+	item_font = "Roboto Regular 27"
+	item_color = "#D1D3D2"
+        selected_item_color = "#D1D3D2"
+        item_padding = 5
+        item_height = 28
+        item_spacing = 80
+        selected_item_pixmap_style = "select_*.png"
+
+
+# GRUB-MENU-ICONS
+        icon_width = 32
+        icon_height = 32
+        item_icon_space = 24
+	scrollbar = true
+}
+
+
+# TIMEOUT
++ label {
+	id = "__timeout__"
+	left = 41%
+        top = 37%
+	text = "Booting into os in %d Seconds"
+	align = "center"
+	font = "Roboto Regular 27"
+	color = "#D1D3D2"
+}
