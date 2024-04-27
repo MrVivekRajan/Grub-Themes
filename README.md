@@ -70,7 +70,7 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
 # Cool - Aesthetic - Stylish
-![Cool Aersthetic](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/217f7448-3835-47ca-90a7-8d6c60411392)
+![cool](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/85dc9a2d-42a7-4ad3-9f71-c2a0ee57669c)
 
 # WINDOWS - Preview
 https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/92712653-e448-4ad5-a4c3-56401d786e7b
