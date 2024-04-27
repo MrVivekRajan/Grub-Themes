@@ -27,6 +27,7 @@ A warm welcome to all the people reading out this 🤗. Here at this repo you wi
 
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/GradientColor"><img src="https://img.shields.io/badge/GradientColor-yellow.svg?style=for-the-badge&color=f25781"></a>
 <a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/NeonPurple"><img src="https://img.shields.io/badge/NeonPurple-yellow.svg?style=for-the-badge&color=4e0bb5"></a>
+<a href="https://github.com/MrVivekRajan/Grub-Themes/tree/main/Minimal"><img src="https://img.shields.io/badge/Minimal-black.svg?style=for-the-badge&color=222428"></a>
 
 </td></tr></table></div><br><table><td><br>
 
