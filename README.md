@@ -69,6 +69,9 @@ GRUB_THEME=/boot/grub/themes/Windows/theme.txt
            or
     sudo grub-mkconfig -o /boot/grub/grub.cfg 
 
+# Minimal
+![Minimal](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/7fab7ba5-9008-4283-8b27-428b7168405c)
+
 # Cool - Aesthetic - Stylish
 ![cool](https://github.com/MrVivekRajan/Grub-Themes/assets/85994908/85dc9a2d-42a7-4ad3-9f71-c2a0ee57669c)
 
